@@ -94,7 +94,7 @@ Without keys, mock data is shown for testing/demo.
 
 ## 🙋‍♂️ Developed By
 
-**Hasini**
+**Waseemroshan**
 📧 Email: [waseemroshan1052005@gmail.com](mailto:waseemroshan1052005@gmail.com)
 
 ## 📄 License
